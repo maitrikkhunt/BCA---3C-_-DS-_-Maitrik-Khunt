@@ -1,7 +1,7 @@
 
 /*
-Name: Ausura Keshar
-Enrollment No: 92500527109
+Name: Maitrik Khunt
+Enrollment No: 92500527107
 Program: Binary Search Tree Operations
 */
 
